@@ -8,6 +8,8 @@
 .base-start{justify-content: flex-start;}
 .base-stretch{justify-content: stretch;}
 
+.danielprueba{justify-content: stretch;}
+
 .opuesto-center{align-items: center;}
 .opuesto-start{align-items: flex-start;}
 .opuesto-end{align-items: flex-end;}
