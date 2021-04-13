@@ -1,7 +1,7 @@
 .row-wrap{display: flex;flex-flow: row wrap;}
 .row-nowrap{display: flex;flex-flow: row nowrap;}
 .column{display: flex;flex-direction: column;}
-
+.holamundo{color:white;}
 .base-between{justify-content:  space-between;}
 .base-around{justify-content: space-around;}
 .base-center{justify-content: center;}
